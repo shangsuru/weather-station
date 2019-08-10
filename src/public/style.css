@@ -1,0 +1,10 @@
+body {
+  background: black;
+  color: lightgreen;
+}
+
+#display {
+  background: black;
+  overflow-x: hidden;
+  height: 550px;
+}

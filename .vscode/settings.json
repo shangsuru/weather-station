@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/home/henry/.platformio/penv/bin:/home/henry/.platformio/penv:/usr/local/anaconda/bin:/usr/local/anaconda/bin:/usr/local/anaconda/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/usr/lib64/jvm/jdk-11.0.3/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/usr/lib64/jvm/jdk-11.0.3/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/local/maven/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
